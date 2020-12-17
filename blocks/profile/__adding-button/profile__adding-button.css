@@ -10,6 +10,10 @@
   font-size: 0;
 }
 
+.profile__adding-button:hover {
+  opacity: 0.6;
+}
+
 @media screen and (max-width: 767px) {
     .profile__adding-button {
       max-width: 282px;
